@@ -46,4 +46,5 @@ seine.discharge = 560
 
 yangtze = River.new("Yangtze")
 yangtze.countries = 1
-yangtze.length = 
+yangtze.length = 3950
+yangtze.discharge = 
