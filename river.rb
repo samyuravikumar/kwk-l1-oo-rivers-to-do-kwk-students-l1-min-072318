@@ -55,3 +55,4 @@ euphrates = River.new("Euphrates")
 euphrates.countries = 3
 euphrates.length = 1740
 euphrates.discharge = 356
+euphrates.dry_up
