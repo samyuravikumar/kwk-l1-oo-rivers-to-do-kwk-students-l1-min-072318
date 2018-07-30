@@ -47,4 +47,7 @@ seine.discharge = 560
 yangtze = River.new("Yangtze")
 yangtze.countries = 1
 yangtze.length = 3950
-yangtze.discharge = 
+yangtze.discharge = 30166
+
+euphrates = River.new("Euphrates")
+euphrates.countries = 
