@@ -38,6 +38,7 @@ amazon = River.new("Amazon")
 amazon.countries = 3 
 amazon.length = 4345
 amazon.discharge = 209000
+amazon.flood
 
 seine = River.new("Seine")
 seine.countries = 1
@@ -48,7 +49,9 @@ yangtze = River.new("Yangtze")
 yangtze.countries = 1
 yangtze.length = 3950
 yangtze.discharge = 30166
+yangtze.flood
 
 euphrates = River.new("Euphrates")
 euphrates.countries = 3
 euphrates.length = 1740
+euphrates.discharge = 356
