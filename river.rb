@@ -40,4 +40,5 @@ amazon.length = 4345
 amazon.discharge = 209000
 
 seine = River.new("Seine")
-seine.countries 
+seine.countries = 1
+seine.length = 
